@@ -1,3 +1,3 @@
-# kubernetes-grpc-echo
+# grpc-echo
 
 WIP
